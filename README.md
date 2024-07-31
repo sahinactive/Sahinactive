@@ -1,4 +1,4 @@
-![I am Web Developer on WordPress ] (https://scontent.fdac31-2.fna.fbcdn.net/v/t39.30808-6/437850841_974866790830001_6374956195133296598_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF8eSIW83w_dJcHc-UYd79Yj4S-BnI-_UaPhL4Gcj79RujhlxWkt9mx7iGF-JEoY2P2gkchFwmkkmMcBMNF_nG2&_nc_ohc=Bnw1WDNHGLkAb4MfDPH&_nc_ht=scontent.fdac31-2.fna&oh=00_AfDCaJgcvt3Xh4i7kx5NSdcwQWXdAhUcrJUd6E8SmfX0TA&oe=6626E072)
+![I am Web Developer on WordPress]
 ### Hi there 👋, my name is Sahin
 #### I am Web Developer on WordPress 
 
